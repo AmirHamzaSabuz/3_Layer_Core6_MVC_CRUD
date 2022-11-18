@@ -1,4 +1,4 @@
-namespace CountryApp_PL.Models
+namespace Core.Models.ViewModels
 {
     public class ErrorViewModel
     {
